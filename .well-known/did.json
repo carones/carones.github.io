@@ -10,7 +10,7 @@
         "kty": "RSA",
         "n": "sXchp8GZk_fake_key_1234567890",
         "e": "AQAB",
-        "x5u": "https://example.com/cert.pem"
+        "x5u": "https://carones.github.io/cert.pem"
       }
     }
   ],
