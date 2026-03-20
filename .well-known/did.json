@@ -7,9 +7,16 @@
       "type": "JsonWebKey2020",
       "controller": "did:web:carones.github.io",
       "publicKeyJwk": {
-        "kty": "RSA",
-        "n": "sXchp8GZk_fake_key_1234567890",
+        "alg": "RS256",
         "e": "AQAB",
+        "ext": true,
+        "key_ops": [
+          "verify"
+        ],
+        "kty": "RSA",
+        "n": "tpryulGKM6rZTdXDp0bEftSb85-3hx9N0niA8n0pfJoTanRqX9_hUij1FGlAIPzdD4sOsj3OAhj56XBENYF_yVBOXu98UQhNvd7xOsodx0JO34YAWKWD3s4CKODnaoKss5jZxcpYOx2PhOWXk9UbJmyT2IKSKy7oz6Ys_dhy-TS9en6fptXafaJjs-JZg25hGQNI70-1geKHfd_88SPIbc2XZvRaqKX5dfrirjg1gWYIIrYp36ObCkxD2wbBFOItjO4PCO2TarwS2u8DWe2oE3kvicro1kuoHfxprcm-RJDpUjPN3SYqxJf5uin1iCVd43EHKm9nDlCWBwAn8NKmdw",
+        "kid": "ccs02cz7WiIuRPsyJxR7Gs1f3flkG9wDnaPocSu+U+8=",
+        "use": "sig",
         "x5u": "https://carones.github.io/cert.pem"
       }
     }
