@@ -9,13 +9,9 @@
       "publicKeyJwk": {
         "alg": "RS256",
         "e": "AQAB",
-        "ext": true,
-        "key_ops": [
-          "verify"
-        ],
         "kty": "RSA",
-        "n": "tpryulGKM6rZTdXDp0bEftSb85-3hx9N0niA8n0pfJoTanRqX9_hUij1FGlAIPzdD4sOsj3OAhj56XBENYF_yVBOXu98UQhNvd7xOsodx0JO34YAWKWD3s4CKODnaoKss5jZxcpYOx2PhOWXk9UbJmyT2IKSKy7oz6Ys_dhy-TS9en6fptXafaJjs-JZg25hGQNI70-1geKHfd_88SPIbc2XZvRaqKX5dfrirjg1gWYIIrYp36ObCkxD2wbBFOItjO4PCO2TarwS2u8DWe2oE3kvicro1kuoHfxprcm-RJDpUjPN3SYqxJf5uin1iCVd43EHKm9nDlCWBwAn8NKmdw",
-        "kid": "ccs02cz7WiIuRPsyJxR7Gs1f3flkG9wDnaPocSu+U+8=",
+        "n": "6gB9DulS9XB7wvAzOeGpEhzXL8Q_UqQs2oIJtEVrOfM2kt_9MlTbir9j9IThCqZYvt3PTNLu6hjZsXzQRD7Ea0PPwDSwgWeXOfA-esRlhp_GHQlXySQfB73l8W7-ntKfgD9NH6raMckzX8cxBvWrEmT4k0UcHporBULRgOpT7DeMNR8wBxK3ir3o_i7rDtTS5DerjcHqjhmkbsbiOkwe6iAdPvAJz2BQZaClFpH4bTDOxxDd9_6LZepKJv_IL8oYSKDzsbrYpmjFudLEeLUlrRWvBUEyz6ZcfhcAmsb_8oYjIjllljGCSVW5Fs2IKTEYMMFzInVSMV9vcd-sc22fVw",
+        "kid": "yEKiw7hsI/hMWef6y1kU2sHiG+FUPjpamikPCJx+9Ck=",
         "use": "sig",
         "x5u": "https://carones.github.io/cert.pem"
       }
