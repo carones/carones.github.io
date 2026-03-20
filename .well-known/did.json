@@ -3,7 +3,7 @@
   "id": "did:web:carones.github.io",
   "verificationMethod": [
     {
-      "id": "did:web:carones.github.io#key-1",
+      "id": "did:web:carones.github.io",
       "type": "JsonWebKey2020",
       "controller": "did:web:carones.github.io",
       "publicKeyJwk": {
@@ -22,6 +22,6 @@
     }
   ],
   "assertionMethod": [
-    "did:web:carones.github.io#key-1"
+    "did:web:carones.github.io"
   ]
 }
