@@ -7,7 +7,7 @@
       "type": "JsonWebKey2020",
       "controller": "did:web:carones.github.io",
       "publicKeyJwk": {
-        "alg": "PS256",
+        "alg": "RS256",
         "e": "AQAB",
         "kty": "RSA",
         "n": "6gB9DulS9XB7wvAzOeGpEhzXL8Q_UqQs2oIJtEVrOfM2kt_9MlTbir9j9IThCqZYvt3PTNLu6hjZsXzQRD7Ea0PPwDSwgWeXOfA-esRlhp_GHQlXySQfB73l8W7-ntKfgD9NH6raMckzX8cxBvWrEmT4k0UcHporBULRgOpT7DeMNR8wBxK3ir3o_i7rDtTS5DerjcHqjhmkbsbiOkwe6iAdPvAJz2BQZaClFpH4bTDOxxDd9_6LZepKJv_IL8oYSKDzsbrYpmjFudLEeLUlrRWvBUEyz6ZcfhcAmsb_8oYjIjllljGCSVW5Fs2IKTEYMMFzInVSMV9vcd-sc22fVw",
